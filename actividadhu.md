@@ -68,7 +68,17 @@ De otro modo: Si la opción seleccionada no es válida, se muestra un mensaje in
 # Diagrama de flujo
 <br>
 
-![](img/df1.png) ![](width='80px')
+![](img/df1.png) ![](width='80px') <br>
+Entender el anterior diagrama no debe presentar mayores problemas. Sin embargo, es conveniente realizar las siguientes 
+aclaraciones y comentarios: 
+
+• Aunque se puede condensar el código incluyendo las instrucciones del segundo “Para” dentro del primero, de manera 
+intencional se ha dejado así intencionalmente para delimitar funcionalmente cada bloque de código. 
+
+• En el algoritmo se captura información, como el nombre, el apellido, la dirección y el telefono, que no se utiliza; sin embargo, 
+esta información se mantiene porque posteriormente puede ser útil para ampliar la funcionalidad de la aplicación. 
+Inicialmente el algoritmo no contempla validaciones como impedir el doble ingreso de un mismo número de 
+identificación.
 
 <br>
 <br>
