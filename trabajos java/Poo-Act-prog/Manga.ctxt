@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Manga
+comment1.params=nombre\ precio
+comment1.target=Manga(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=double\ getPrecio()
+numComments=4
